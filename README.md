@@ -8,6 +8,7 @@
   <li>A Transpiler to C</li>
   <li>Custom Markdown Langauge</li>
   <li>An Esoteric Langauge </li>
+  <li>A Scripting Language</li>
 </ui>
 
 <h2>GUIS:</h2>
