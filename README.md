@@ -9,6 +9,8 @@
   <li>Custom Markdown Langauge</li>
   <li>An Esoteric Langauge </li>
   <li>A Scripting Language</li>
+  <li>A compiler with Batch as IR</li>
+  <li>A compiler with AutoHotkey as the IR</li>
 </ui>
 
 <h2>GUIS:</h2>
